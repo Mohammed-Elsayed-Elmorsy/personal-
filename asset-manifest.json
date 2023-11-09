@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0160db58.css",
+    "main.js": "./static/js/main.a4d1f6cd.js",
+    "static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.png": "./static/media/٢٠٢٣٠٨١١_١٥٢٦٢٨.ce29a74f1505a48707a8.png",
+    "static/media/Screenshot_2023-11-06_07_39_09.png": "./static/media/Screenshot_2023-11-06_07_39_09.09445a17099551ca6b9c.png",
+    "static/media/Screenshot_2023-10-19_19_24_44.png": "./static/media/Screenshot_2023-10-19_19_24_44.3008af0fd1340239998a.png",
+    "static/media/jasmine-plant-blossom-flower-beautiful-scented-kitchen.jpg": "./static/media/jasmine-plant-blossom-flower-beautiful-scented-kitchen.b1a2d31c89dd3cbfa638.jpg",
+    "static/media/mo.jpg": "./static/media/mo.06a282dbefe711042be8.jpg",
+    "static/media/cart.jpg": "./static/media/cart.768c5a386a6c8cb98319.jpg",
+    "static/media/rest2.jpg": "./static/media/rest2.46cdebeaa2671e03ec81.jpg",
+    "static/media/hotel.jpg": "./static/media/hotel.3c0d320e931a73edde3f.jpg",
+    "index.html": "./index.html",
+    "main.0160db58.css.map": "./static/css/main.0160db58.css.map",
+    "main.a4d1f6cd.js.map": "./static/js/main.a4d1f6cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0160db58.css",
+    "static/js/main.a4d1f6cd.js"
+  ]
+}
